@@ -93,7 +93,7 @@ const ListTodos = () => {
                 </TableCell>
                 <TableCell>
                   <motion.div
-                    whileHover={{ scale: 1.05, boxShadow: "0px 4px 15px rgba(0,0,0,0.1)" }}
+                    whileHover={{ scale: 1.05}}
                     whileTap={{ scale: 0.95 }}
                     transition={{ duration: 0.2 }}
                   >
